@@ -64,7 +64,7 @@ cd TBomb
 cp -r -f * .. > temp
 cd ..
 rm -rf  TBomb >> temp
-rm update.speedx >> temp
+rm update.hyperwebster >> temp
 rm temp
 chmod +x TBomb.sh
 fi
