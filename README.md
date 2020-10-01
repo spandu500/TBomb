@@ -18,6 +18,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
+- Actions can be taken if complain is filed. Developers/contributors won't be held accountable.
 - **None of the developers/contributors are responsible for the misuse of TBomb.**
 <br>
 
@@ -46,8 +47,8 @@ Commands below provide instructions for Debian-based systems.
 
 To use the bomber type the following commands in Termux:
 ```
-pkg install git
-pkg install python
+pkg install git                                   //this is to install git to your device
+pkg install python                                //this is to install python to your device (latest version is downloaded always)
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
